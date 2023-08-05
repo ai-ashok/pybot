@@ -1,0 +1,7 @@
+langchain==0.0.252
+BeautifulSoup4==4.12.2
+ctransformers==0.2.19
+chainlit==0.6.1
+faiss-gpu==1.7.2
+sentence_transformers==2.2.2
+pypdf==3.14.0
